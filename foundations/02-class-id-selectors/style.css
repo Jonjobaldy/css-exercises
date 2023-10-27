@@ -1,0 +1,21 @@
+/* Stylesheet for 02 lesson */
+
+.Para {
+    background-color: rgb(235, 113, 113);
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+#number-2 {
+    color: rgb(29, 29, 178);
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 36px;
+}
+
+#bold-green {
+    background-color: rgb(100, 250, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
